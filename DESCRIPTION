@@ -1,10 +1,14 @@
 Package: data4paprbag
 Type: Package
-Title: What the Package Does (Title Case)
-Version: 0.1
-Date: 2016-01-15
-Author: Who wrote it
-Maintainer: Who to complain to <yourfault@somewhere.net>
-Description: More about what it does (maybe more than one line)
-License: What license is it under?
+Title: Trained classifiers for Pathogenicity Prediction for Bacterial Genomes
+Version: 0.1.1
+Date: 2016-01-07
+Author: Carlus Deneke
+Maintainer: Carlus Deneke <denekeC@rki.de>
+Description: This package provides additional large data to be used in
+    conjunction with paprbag
+License: GPL-2
 LazyData: TRUE
+Imports:
+    paprbag
+RoxygenNote: 5.0.1
