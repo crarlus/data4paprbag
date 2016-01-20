@@ -13,7 +13,9 @@ _labels_foldX.rda_ provides a list of Bioproject accessions and their associated
 
 _Labels.rda_ provides a list of all Bioproject accessions and their associated labels.
 
+
 # Usage
 Either download and install the package (via `devtools::install_github("crarlus/data4paprbag")`)
 
 or manually download the files of your choice from directory [data](https://github.com/crarlus/data4paprbag/tree/master/data)
+
