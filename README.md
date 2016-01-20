@@ -11,7 +11,7 @@ _classifier_small_foldX.rda_ provides a trained pathogenicity classfier for fold
 
 _labels_foldX.rda_ provides a list of Bioproject accessions and their associated pathogenicity phenotype for the bacterial strains trained in fold X
 
-_Labels.rda_ provides a list of all Bioproject accessions and their labels.
+_Labels.rda_ provides a list of all Bioproject accessions and their associated labels.
 
 # Usage
 Either download and install the package (via `devtools::install_github("crarlus/data4paprbag")`)
